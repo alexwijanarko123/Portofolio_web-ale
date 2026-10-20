@@ -22,7 +22,7 @@ const skills = [
   { name: "JavaScript",   icon: `${D}/javascript/javascript-original.svg` },
   { name: "PHP",          icon: `${D}/php/php-original.svg` },
   { name: "MySQL",        icon: `${D}/mysql/mysql-original.svg` },
-  { name: "Machine Learning",          icon: "assets/machineLearning.jpg" },
+  { name: "Machine Learning",     icon: "assets/machineLearning.jpg" },
 ];
 
 // Urutan: terbaru di atas. Taruh gambar di assets/projects/
@@ -46,15 +46,21 @@ const projects = [
   {
     date: "August 2026",
     img: "#",
-    title: "Lemon-Aid",
+    title: "Lemon-Aid (Development in Progress)",
     desc: "An AI powered Website that can help users to carefully think before buying something. The website is designed to",
     tech: ["HTML5", "CSS", "JavaScript","Node.js","Express.js","Google Gemini API","Vercel Deployment"],
     link: "https://lemon-aid-web.vercel.app/Lemon-Aid/loginpage.html", linkText: "Project Link",
   },
-
+ {
+    date: "October 2026",
+    img: "#",
+    title: "KosTips (Development in Progress)",
+    desc: "A Forum Website that can help users to share their tips and tricks about Kos. The website is designed for users to easily find and share information about Kos, such as tips for finding the best Kos, tips for living in a Kos, and tips for managing Kos expenses.",
+    tech: ["HTML5", "CSS", "PHP"],
+    link: "https://lemon-aid-web.vercel.app/Lemon-Aid/loginpage.html", linkText: "Project Link",
+  },
 ];
 
-// Ganti dengan link CV kamu (mis. assets/cv.pdf)
 const CV_URL = "assets/cv.pdf";
 
 /* ====================================================
