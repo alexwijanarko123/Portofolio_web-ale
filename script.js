@@ -45,11 +45,11 @@ const projects = [
   },
   {
     date: "August 2026",
-    img: "#",
+    img: "assets/projects/lemonAid.png",
     title: "Lemon-Aid (Development in Progress)",
-    desc: "An AI powered Website that can help users to carefully think before buying something. The website is designed to",
+    desc: "An AI powered Website that can help users to carefully think before buying something. The website is designed to provide users with a platform to input their desired product and receive an AI-generated analysis of the product's price, quality, and impulsive buying Le Mon-Aid is an AI-powered financial wellness web app built to prevent impulsive spending among Gen Z and students. Integrated with Google Gemini, it calculates an impulse risk score (1 to 10) and provides personalized purchase recommendations. Features a Lemon Pause reflection timer (1h up to 1w), dynamic budget tracking with SVG data visualizations, and an automated savings tracker that tallies money saved from skipped purchases.potential. The website aims to assist users in making informed purchasing decisions by leveraging the capabilities of AI technology.",
     tech: ["HTML5", "CSS", "JavaScript","Node.js","Express.js","Google Gemini API","Vercel Deployment"],
-    link: "https://lemon-aid-web.vercel.app/Lemon-Aid/loginpage.html", linkText: "Project Link",
+    link: "https://lemon-aid-web-psi.vercel.app/", linkText: "Project Link",
   },
  {
     date: "October 2026",
@@ -57,7 +57,7 @@ const projects = [
     title: "KosTips (Development in Progress)",
     desc: "A Forum Website that can help users to share their tips and tricks about Kos. The website is designed for users to easily find and share information about Kos, such as tips for finding the best Kos, tips for living in a Kos, and tips for managing Kos expenses.",
     tech: ["HTML5", "CSS", "PHP"],
-    link: "https://lemon-aid-web.vercel.app/Lemon-Aid/loginpage.html", linkText: "Project Link",
+    link: "#", linkText: "Project Link",
   },
 ];
 
