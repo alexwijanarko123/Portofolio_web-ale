@@ -53,7 +53,7 @@ const projects = [
   },
  {
     date: "October 2026",
-    img: "assets/projects/kostips.png",
+    img: "assets/projects/kosTips.png",
     title: "KosTips (Development in Progress)",
     desc: "A Forum Website that can help users to share their tips and tricks about Kos. The website is designed for users to easily find and share information about Kos, such as tips for finding the best Kos, tips for living in a Kos, and tips for managing Kos expenses.",
     tech: ["HTML5", "CSS", "PHP"],
