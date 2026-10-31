@@ -31,7 +31,7 @@ const projects = [
     date: "October 2025",
     img: "assets/projects/nasaui.png",
     title: "Will it rain?",
-    desc: "Collaborated with a team of 4 to brainstorm and rapidly prototype a website as a solution to analyze large volumes of historical weather data within 24 hour timeframe. Developed the website logic utilizing HTML, CSS, Java Script. Demonstrated agility and strong problem-solving skills to meet the competition's technical requirements.",
+    desc: "Collaborated with a team of 5 to brainstorm and rapidly prototype a website as a solution to analyze large volumes of historical weather data within 24 hour timeframe. Developed the website logic utilizing HTML, CSS, Java Script. Demonstrated agility and strong problem-solving skills to meet the competition's technical requirements.",
     tech: ["HTML", "CSS", "JavaScript"],
     link: "https://github.com/AlbertNC12/nasa_space_app_challenge_2025", linkText: "Project Link",
   },
@@ -61,7 +61,7 @@ const projects = [
   },
 ];
 
-const CV_URL = "assets/cv.pdf";
+const CV_URL = "https://docs.google.com/document/d/1K9YFy9m3a3p5wTw6q9fualtDD99qeysMeFZeisUsVms/edit?hl=ID&tab=t.0";
 
 /* ====================================================
    RENDER
